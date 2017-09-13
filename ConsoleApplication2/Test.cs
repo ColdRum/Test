@@ -10,5 +10,6 @@ namespace ConsoleApplication2
     {
         public int q { get; set; }
         public string Name { get; set; }
+        public int R { get; set; }
     }
 }
